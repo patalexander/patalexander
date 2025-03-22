@@ -1,5 +1,3 @@
-![pat alexander-1](https://github.com/user-attachments/assets/3cdd9c2b-1599-4c7f-95b7-4a8d56e30598)
-
 <h1>Hi, I'm Pat!</h1>
 <p>A passionate data analyst sharing my tech journey. </p>
 
