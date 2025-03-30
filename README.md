@@ -1,8 +1,6 @@
 <h1>Hi, I'm Pat!</h1>
 <p>A passionate data analyst sharing my tech journey. </p>
 
-- 🔭 I’m currently working on a Medium article discussing Window Functions in SQL.
-- 🌱 I’m currently learning TensorFlow 2.
 
 
 # 💻 Tech Stack
